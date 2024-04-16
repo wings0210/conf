@@ -1,0 +1,14 @@
+Vin: XXHPT1D2022101833
+DeviceSecret: 1a34d0dada7b943f8b43db93685f6047
+DeviceId: XXHPT1D2022101833
+ClientId: ~
+Username: XXHPT1D202210183
+Password: ~
+SubTopic: $oc/devices/XXHPT1D2022101833/user/cmd
+PubTopic: $oc/devices/XXHPT1D2022101833/user/data
+Http: https://iot-tool.obs-website.cn-north-4.myhuaweicloud.com/
+ThaHost: localhost
+ThaDeviceId: 1833
+ThaClientId: test
+ThaSubTopic: dc/XXHPT1D2022101833/cmd
+ThaPubTopic: dc/XXHPT1D2022101833/data
